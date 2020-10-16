@@ -1,0 +1,50 @@
+body{
+	background: #171717;
+}
+
+.ig-post{
+	background: white; 
+	width: 575px; 
+	height: 790px; 
+	margin: auto; 
+	position: absolute; top: 50%; left: 50%; 
+	transform: translate(-50%, -50%);
+	font-family: 'Lato', sans-serif;
+}
+
+.ellipsis{
+	float: right;
+}
+
+.ig-post i{
+	font-size: 35px;
+}
+.photo{
+	padding-top: 15px;
+}
+.ig-header{
+	padding: 15px;
+}
+
+.ig-buttoms{
+	padding: 25px; padding-bottom: 10px;
+}
+
+.bookmark{
+	float: right;
+}
+
+.ig-text{
+	padding: 25px;
+	font-size: 17px;
+	padding-top: 0;
+}
+.header-text{
+	font-size: 17px;
+	float: left;
+	margin-left: 5px;
+}
+
+.left-html-icon{
+	float: left;
+}
