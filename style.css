@@ -14,6 +14,7 @@ body{
 
 .ellipsis{
 	float: right;
+	margin-right: 10px;
 }
 
 .ig-post i{
@@ -47,4 +48,8 @@ body{
 
 .left-html-icon{
 	float: left;
+}
+
+.button-group{
+	padding-left: 6px;
 }
